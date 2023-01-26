@@ -42,5 +42,5 @@ sudo snap install notepadqq
 sudo snap install spotify
 sudo snap install audible-for-linux
 
-sudo apt-get update && upgrade
+sudo apt-get update && sudo apt-get upgrade -j
 
