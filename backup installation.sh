@@ -42,5 +42,11 @@ sudo snap install notepadqq
 sudo snap install spotify
 sudo snap install audible-for-linux
 
+#duno.land
+sudo snap install deno
+
+
 sudo apt-get update && sudo apt-get upgrade -j
+
+
 
